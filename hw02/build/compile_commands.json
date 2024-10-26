@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/admin/otus_test/hw02/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/hello_world.dir/hello_world.cpp.o -c /home/admin/otus_test/hw02/hello_world.cpp",
+  "file": "/home/admin/otus_test/hw02/hello_world.cpp",
+  "output": "CMakeFiles/hello_world.dir/hello_world.cpp.o"
+},
+{
+  "directory": "/home/admin/otus_test/hw02/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/hello_world.dir/example.cpp.o -c /home/admin/otus_test/hw02/example.cpp",
+  "file": "/home/admin/otus_test/hw02/example.cpp",
+  "output": "CMakeFiles/hello_world.dir/example.cpp.o"
+},
+{
+  "directory": "/home/admin/otus_test/hw02/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/hello_world.dir/move_me_out.cpp.o -c /home/admin/otus_test/hw02/move_me_out.cpp",
+  "file": "/home/admin/otus_test/hw02/move_me_out.cpp",
+  "output": "CMakeFiles/hello_world.dir/move_me_out.cpp.o"
+}
+]

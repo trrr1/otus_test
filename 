@@ -1,0 +1,26 @@
+[33mcommit 739a3a5e9ac0bd112f8b89a8527cb4d3917656cd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtest1[m[33m)[m
+Author: Vladislav Shaklein <vladislavsaklein40@gmail.com>
+Date:   Sat Oct 26 11:31:41 2024 +0000
+
+    Edit README.md
+
+[33mcommit e8f402909f2db0e035cfa52c133ec423e30f6afe[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 1aac2a2 8b05060
+Author: Владислав Шаклеин <vladislavsaklein40@gmail.com>
+Date:   Thu Oct 3 18:17:15 2024 +0000
+
+    Merge pull request #1 from trrr1/test1
+    
+    Fix README.md
+
+[33mcommit 8b05060ce7da5014c71af796912af90c193240f4[m[33m ([m[1;31morigin/test1[m[33m)[m
+Author: Vladislav Shaklein <vladislavsaklein40@gmail.com>
+Date:   Thu Oct 3 18:10:53 2024 +0000
+
+    Fix README.md
+
+[33mcommit 1aac2a2a943794826b8284d172b673b05fcfcd16[m
+Author: Владислав Шаклеин <vladislavsaklein40@gmail.com>
+Date:   Fri Sep 27 20:52:01 2024 +0300
+
+    Initial commit
