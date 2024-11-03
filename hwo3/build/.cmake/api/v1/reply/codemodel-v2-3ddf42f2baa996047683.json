@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "03.homework",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "argument::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-argument-Debug-79c87080ee77907be08a.json",
+					"name" : "argument",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check_value::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check_value-Debug-be16c06e8ea3d10ab414.json",
+					"name" : "check_value",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "game::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-game-Debug-ec56304cd21129f35bd4.json",
+					"name" : "game",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "high_scores::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-high_scores-Debug-f1ac55694e7d9513968e.json",
+					"name" : "high_scores",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_value::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_value-Debug-d3651d3bf2864e4db656.json",
+					"name" : "random_value",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/admin/otus_test/hwo3/build",
+		"source" : "/home/admin/otus_test/hwo3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,7 @@
+/home/admin/otus_test/hwo3/build/CMakeFiles/check_value.dir
+/home/admin/otus_test/hwo3/build/CMakeFiles/random_value.dir
+/home/admin/otus_test/hwo3/build/CMakeFiles/high_scores.dir
+/home/admin/otus_test/hwo3/build/CMakeFiles/argument.dir
+/home/admin/otus_test/hwo3/build/CMakeFiles/game.dir
+/home/admin/otus_test/hwo3/build/CMakeFiles/edit_cache.dir
+/home/admin/otus_test/hwo3/build/CMakeFiles/rebuild_cache.dir

@@ -21,3 +21,9 @@ add_executable(
 	argument
 	argument.cpp
 )
+
+add_executable(
+	game
+	src/game.cpp
+	src/main.cpp
+)

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/high_scores.dir/high_scores.cpp.o -o high_scores 

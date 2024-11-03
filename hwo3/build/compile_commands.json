@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/admin/otus_test/hwo3/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/check_value.dir/check_value.cpp.o -c /home/admin/otus_test/hwo3/check_value.cpp",
+  "file": "/home/admin/otus_test/hwo3/check_value.cpp",
+  "output": "CMakeFiles/check_value.dir/check_value.cpp.o"
+},
+{
+  "directory": "/home/admin/otus_test/hwo3/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/random_value.dir/random_value.cpp.o -c /home/admin/otus_test/hwo3/random_value.cpp",
+  "file": "/home/admin/otus_test/hwo3/random_value.cpp",
+  "output": "CMakeFiles/random_value.dir/random_value.cpp.o"
+},
+{
+  "directory": "/home/admin/otus_test/hwo3/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/high_scores.dir/high_scores.cpp.o -c /home/admin/otus_test/hwo3/high_scores.cpp",
+  "file": "/home/admin/otus_test/hwo3/high_scores.cpp",
+  "output": "CMakeFiles/high_scores.dir/high_scores.cpp.o"
+},
+{
+  "directory": "/home/admin/otus_test/hwo3/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/argument.dir/argument.cpp.o -c /home/admin/otus_test/hwo3/argument.cpp",
+  "file": "/home/admin/otus_test/hwo3/argument.cpp",
+  "output": "CMakeFiles/argument.dir/argument.cpp.o"
+},
+{
+  "directory": "/home/admin/otus_test/hwo3/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/game.dir/game.cpp.o -c /home/admin/otus_test/hwo3/game.cpp",
+  "file": "/home/admin/otus_test/hwo3/game.cpp",
+  "output": "CMakeFiles/game.dir/game.cpp.o"
+},
+{
+  "directory": "/home/admin/otus_test/hwo3/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/game.dir/main.cpp.o -c /home/admin/otus_test/hwo3/main.cpp",
+  "file": "/home/admin/otus_test/hwo3/main.cpp",
+  "output": "CMakeFiles/game.dir/main.cpp.o"
+}
+]
